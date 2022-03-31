@@ -17,4 +17,6 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 </a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=mikaelaldy&color=green)
+
 
