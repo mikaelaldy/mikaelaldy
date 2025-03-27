@@ -1,14 +1,10 @@
 
-# Halo semua! 👋
+# Hi 👋
 
-Perkenalkan nama saya **Mikael Aldy**.
+My name is **Mika**
 
-Saya seorang **Mahasiswa Teknik Informatika** di [UKSW](https://www.uksw.edu/).
+Im bangkit 2022 alumni  [**Bangkit 2022**](https://grow.google/intl/id_id/bangkit/) in **Machine Learning**.
 
-Saat ini saya sedang mengikuti program [**Bangkit 2022**](https://grow.google/intl/id_id/bangkit/) dan belajar mengenai **Machine Learning**.
-
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mikaelaldy/)ku ya.
 
 <p align="left">
 <a href="https://github.com/mikaelaldy">
